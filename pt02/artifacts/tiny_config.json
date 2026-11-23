@@ -1,0 +1,18 @@
+{
+  "vocab_size": 1534,
+  "d_model": 128,
+  "n_layers": 4,
+  "n_heads": 4,
+  "d_ff": 512,
+  "context": 128,
+  "n_params": 1203966,
+  "steps": 2000,
+  "batch": 32,
+  "lr": 0.001,
+  "seed": 42,
+  "train_tokens": 752161,
+  "val_tokens": 83015,
+  "bpe_merges": 1500,
+  "train_minutes": 6.342056293566665,
+  "device": "cpu"
+}
